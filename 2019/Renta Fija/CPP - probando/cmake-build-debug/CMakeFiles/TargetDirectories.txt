@@ -1,0 +1,3 @@
+/Users/pedro/Dropbox/Posgrado/Maestria en Finanzas (udesa)/Materias/Excel/probando/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pedro/Dropbox/Posgrado/Maestria en Finanzas (udesa)/Materias/Excel/probando/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pedro/Dropbox/Posgrado/Maestria en Finanzas (udesa)/Materias/Excel/probando/cmake-build-debug/CMakeFiles/probando.dir
